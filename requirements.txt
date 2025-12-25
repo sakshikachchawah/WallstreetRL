@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+torch
+gym==0.26.2
+yfinance
+ta
